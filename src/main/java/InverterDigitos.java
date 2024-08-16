@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class inverterDigitos {
+public class InverterDigitos {
   int n, inverso = 0, digito;
 
   Scanner sc = new Scanner(System.in);

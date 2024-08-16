@@ -1,4 +1,4 @@
-public class trocaDeVariaveis {
+public class TrocaDeVariaveis {
  int a = 10, b = 20, aux;
   public void trocaDeValores(){
     System.out.printf("Valor inicial da variável a = %d%n", a);

@@ -5,7 +5,7 @@
 public class Main {
   public static void main(String[] args) {
 
-    // trocaDeVariaveis t = new trocaDeVariaveis();
+    // TrocaDeVariaveis t = new TrocaDeVariaveis();
     // t.trocaDeValores();
 
     //   Contagem t = new Contagem();
@@ -14,8 +14,8 @@ public class Main {
     //   SomaDeNumeros t = new SomaDeNumeros();
     //   t.SomarNumeros();
 
-    // Fatorial t = new Fatorial();
-    // t.valorFatorial();
+     Fatorial t = new Fatorial();
+     t.valorFatorial();
 
     // SerieInfinita t = new SerieInfinita();
     // t.sInfinita();
@@ -23,8 +23,8 @@ public class Main {
     // Fibonacci t = new Fibonacci();
     // t.sequencialFibonacci();
 
-    // inverterDigitos t = new inverterDigitos();
-    // t.inverter();
+   //  InverterDigitos t = new InverterDigitos();
+   //  t.inverter();
 
     // ConversaoBase t = new ConversaoBase();
     // t.Conversao();
