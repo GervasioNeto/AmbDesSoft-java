@@ -25,6 +25,5 @@ public class Contagem {
       System.out.printf("São %d alunos.%n", qtdAlunos);
       System.out.printf("São %d alunos aprovados e %d alunos reprovados.%n", aprovados, reprovados);
     }
-
 }
 

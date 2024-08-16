@@ -20,6 +20,5 @@ public class ConversaoBase{
       for (int i = ndigit - 1; i >= 0; i--){
         System.out.print(novarep[i]);
       }
-
     }    
   }

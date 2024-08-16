@@ -10,6 +10,5 @@ public class TrocaDeVariaveis {
 
     System.out.printf("Valor trocado da variável a = %d%n", a);
     System.out.printf("Valor trocado da variável b = %d%n", b);
-
   }
 }

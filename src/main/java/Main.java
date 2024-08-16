@@ -14,8 +14,8 @@ public class Main {
     //   SomaDeNumeros t = new SomaDeNumeros();
     //   t.SomarNumeros();
 
-     Fatorial t = new Fatorial();
-     t.valorFatorial();
+    // Fatorial t = new Fatorial();
+    // t.valorFatorial();
 
     // SerieInfinita t = new SerieInfinita();
     // t.sInfinita();
@@ -29,8 +29,8 @@ public class Main {
     // ConversaoBase t = new ConversaoBase();
     // t.Conversao();
 
-   //  CaractereParaNumero t = new CaractereParaNumero();
-   //  t.CaractereNumero();
+    // CaractereParaNumero t = new CaractereParaNumero();
+    // t.caractereNumero();
 
   }
 
